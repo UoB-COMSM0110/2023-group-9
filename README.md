@@ -2,7 +2,7 @@
 
 TASKS TO IMPLEMENT 
 
-MOST IMPORTANT TASK TO DO: lives system based on the Person being shot (scope goes red to indicate this) 
+MOST IMPORTANT TASK TO DO: lives system based on the Person being shot (scope goes red to indicate this). Scope should follow the player and every 5-10 seconds take a shot. 
 
 Hard mode - Randomised/ toggle at the start of gameplay/ continously gets harder over duration of game play
 
