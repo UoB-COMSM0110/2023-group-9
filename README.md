@@ -2,6 +2,8 @@
 
 TASKS TO IMPLEMENT 
 
+MOST IMPORTANT TASK TO DO: lives system based on the Person being shot (scope goes red to indicate this) 
+
 Hard mode - Randomised/ toggle at the start of gameplay/ continously gets harder over duration of game play
 
 Ways it can get harder - objects can begin to fall from the sky which can damage the player, multiple scopes can begin targeting the player, npcs may appear that target the player. 
